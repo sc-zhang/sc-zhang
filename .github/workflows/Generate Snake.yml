@@ -26,6 +26,5 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          target_branch: output
-          build_dir: dist
+          branch: output
           message: 'Generate Contribution Snake'
