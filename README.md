@@ -8,5 +8,5 @@
   
   <img src="https://github.com/sc-zhang/sc-zhang/blob/output/github-contribution-grid-snake-dark.svg" /><br><br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sc-zhang&theme=github-compact&hide_border=true" alt="Activity"/>
+  <img src="https://activity-graph.cyclic.app/graph?username=sc-zhang&theme=github-compact&hide_border=true" alt="Activity"/>
 </div>
